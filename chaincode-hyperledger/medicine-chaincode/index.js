@@ -100,5 +100,5 @@ class MedicineContract extends Contract {
         }
     }
 }
-
+/// For testing purposes, we export the contract class directly
 module.exports.contracts = [MedicineContract];
