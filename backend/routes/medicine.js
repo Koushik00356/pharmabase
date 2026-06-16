@@ -143,5 +143,7 @@ router.get("/all", async (req, res) => {
     res.status(500).send("Error fetching medicines");
   }
 });
-
+/*
+module.exports = router;
+*/
 module.exports = router;
