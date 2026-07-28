@@ -261,3 +261,6 @@ const styles = {
 };
 
 export default QRScanner;
+
+
+/* added a comment to explain the return statement */
