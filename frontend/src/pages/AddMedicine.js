@@ -18,6 +18,7 @@ function AddMedicine() {
       alert("❌ Error adding medicine");
     }
   };
+  /* added a comment to explain the return statement */
 
   return (
     <div className="add-container">
